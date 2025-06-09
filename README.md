@@ -45,3 +45,7 @@ Modules
    - Includes a reference model for registers and data memory, and performs cycle-accurate comparisons post-simulation.
    - Generates detailed match/mismatch logs and reports final test status.
 
+Simulation Screenshot
+---------------------
+[Simulation Waveform]https://github.com/hitechzex/RISC_V_Processor/blob/main/simulation_screenshot.png
+
