@@ -47,5 +47,5 @@ Modules
 
 Simulation Screenshot
 ---------------------
-[Simulation Waveform]https://github.com/hitechzex/RISC_V_Processor/blob/main/simulation_screenshot.png
+[Simulation Waveform](https://github.com/hitechzex/RISC_V_Processor/blob/main/simulation_screenshot.png)
 
